@@ -1,2 +1,0 @@
-# RaidFarmTracker
-addon 

@@ -1,0 +1,15 @@
+## Interface: 120007
+## Title: RaidFarmTracker
+## Author: hN & Oráculo
+## Version: 0.0.5-alpha
+## SavedVariables: RaidFarmTrackerDB
+
+Core/Core.lua
+Core/Events.lua
+Core/Commands.lua
+
+UI/Theme.lua
+UI/Components.lua
+
+Modules/Navigation.lua
+Modules/MainWindow.lua
